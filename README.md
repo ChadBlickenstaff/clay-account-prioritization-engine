@@ -1,4 +1,4 @@
-# Building an AI-Native Account Prioritization Engine
+# AI-Native Account Prioritization Engine
 
 Designing a GTM operating system that turns account prioritization from intuition into a repeatable, measurable workflow.
 
