@@ -1,0 +1,13 @@
+## The Operating Model
+
+The workflow separates account prioritization into five independent decision layers, making each stage measurable, auditable, and easier to improve over time.
+
+![Operating Model](assets/operating-model.svg)
+
+---
+
+## What the Build Proved
+
+The final framework summarizes what the project validated, where it succeeded, and the key limitation that emerged during implementation.
+
+![What the Build Proved](assets/what-the-build-proved.svg)
