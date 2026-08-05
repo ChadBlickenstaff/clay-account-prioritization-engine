@@ -2,7 +2,7 @@
 
 Designing a GTM operating system that turns account prioritization from intuition into a repeatable, measurable workflow.
 
-> Built during Clay AlphaForge GTM Engineering Bootcamp.
+> Built during Clay's AlphaForge GTM Engineering Bootcamp.
 
 ---
 
@@ -14,8 +14,6 @@ This project explores a different approach: separating qualification, prioritiza
 
 The result is an AI-native GTM workflow designed to make revenue judgment explicit rather than implicit.
 
-> **Note:** This repository documents the operating model, architecture, and lessons learned from a working GTM workflow rather than a production software application.
-
 ---
 
 ## Results at a Glance
@@ -23,7 +21,7 @@ The result is an AI-native GTM workflow designed to make revenue judgment explic
 - 1,441 companies evaluated
 - 482 qualified and prioritized accounts
 - Five-layer operating model
-- Built during Anthropic's AlphaForge GTM Engineering Bootcamp
+- Built during Clay's AlphaForge GTM Engineering Bootcamp
 - Human-reviewed outbound workflow
 
 ---
@@ -32,7 +30,7 @@ The result is an AI-native GTM workflow designed to make revenue judgment explic
 
 🌐 [Portfolio Case Study](https://chadblickenstaff.io/building-an-ai-native-account-prioritization-engine)
 
-🎥 [Loom Walkthrough](https://www.loom.com/share/d8142b6a714646dcb6d1992f50972621))
+🎥 [Loom Walkthrough](https://www.loom.com/share/d8142b6a714646dcb6d1992f50972621)
 
 ---
 
@@ -56,7 +54,7 @@ The workflow separates five independent layers of decision-making:
 
 **Signal → Qualification → Prioritization → Segmentation → Action**
 
-> *(Insert operating model graphic here.)*
+![Operating Model](assets/operating-model.svg)
 
 Rather than producing a single opaque score, each layer has a distinct responsibility, making the system easier to understand, maintain, and improve.
 
@@ -74,7 +72,9 @@ Separating qualification from prioritization transformed the project from a scor
 
 ## What the Build Proved
 
-> *(Insert "What the Build Proved" graphic here.)*
+The final framework summarizes what the project validated, where it succeeded, and the key limitation that emerged during implementation.
+
+![What the Build Proved](assets/what-the-build-proved.svg)
 
 The project demonstrated that:
 
